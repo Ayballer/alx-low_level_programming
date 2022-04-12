@@ -1,4 +1,6 @@
-#ifndef _HEADER_
-#define _HEADER_
+#include "1-pi.h"
+#include <stdio.h>
+
 #define SIZE 1024
+
 #endif
